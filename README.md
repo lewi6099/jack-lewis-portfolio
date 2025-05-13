@@ -43,5 +43,5 @@ Welcome to my portfolio repository! This collection showcases a variety of proje
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or check out more of my work on [GitHub](https://github.com/your-username).
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/jacklewisb) or check out more of my work on [GitHub](https://github.com/lewi6099).
 
